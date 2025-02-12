@@ -24,7 +24,7 @@ A Python wrapper for accessing flight ticket prices, routes, and other data via 
       git clone https://github.com/your-username/aviasales-python.git
 
 2. Navigate into the project folder:
-      cd aviasales-api-python
+      cd aviasales-python
 
 3. Install the required dependencies:
       pip install -r requirements.txt
