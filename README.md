@@ -39,7 +39,7 @@ A Python wrapper for accessing flight ticket prices, routes, and other data via 
 2. **Initialize the API Wrapper:**
       `api = AviasalesAPI(API_TOKEN)`
 
-3. **Example Usage:**
+3. **Usage:**
    
    * Get the latest prices for a period:
         `data = api.get_latest_prices("OSL", "ALC", "2025-12-07", "year")`
