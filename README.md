@@ -1,6 +1,6 @@
 # aviasales-python
 
-A Python wrapper for accessing flight ticket prices, routes, and other data via the Aviasales API
+A Python wrapper for accessing flight ticket prices, routes, and other data via the Aviasales Flight Data API
 
 ## Features
 
