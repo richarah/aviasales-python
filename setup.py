@@ -5,7 +5,7 @@ with open('requirements.txt') as f:
     required = f.read().splitlines()
 
 setup(
-    name='aviasales-api-python',
+    name='aviasales-python',
     version='1.0.0',
     packages=find_packages(),
     install_requires=required,
@@ -14,7 +14,7 @@ setup(
     description="Python wrapper for Aviasales API",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url="https://github.com/richarah/aviasales-api-python",
+    url="https://github.com/richarah/aviasales-python",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
